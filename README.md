@@ -1,4 +1,4 @@
 # Cursos Realizados:
-Linguagem C++ (Básico)
+Linguagem C++ (Básico);
 Shell Script
 
